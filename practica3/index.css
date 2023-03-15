@@ -1,0 +1,27 @@
+@charset "utf-8";
+/*CSS Document*/
+body{
+    background-color: #A0CAEC;
+}
+
+img{
+    width:200px;
+}
+
+.principal{
+    width:100%;
+}
+
+ul{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16pt;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    float: right;
+    color: navy;
+}
+
+li{
+    padding: 20px;
+}
